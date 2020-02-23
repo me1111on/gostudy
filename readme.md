@@ -7,3 +7,4 @@ Go
 http://golang.site/ 강의를 들으며 정리한 내용입니다.
 
 * 02월 18일 - 1강 환경설정
+* 02월 23일 - hello world
